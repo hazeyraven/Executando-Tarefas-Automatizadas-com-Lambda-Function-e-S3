@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "notas-fiscais-upload"
+        },
+        "object": {
+          "key": "notas_fiscais.json"
+        }
+      }
+    }
+  ]
+}

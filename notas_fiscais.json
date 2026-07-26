@@ -1,0 +1,14 @@
+[
+  {
+    "id_nota": "1001",
+    "cliente": "Empresa Alpha Ltda",
+    "valor": 1500.50,
+    "data_emissao": "2023-10-25"
+  },
+  {
+    "id_nota": "1002",
+    "cliente": "Comércio Beta SA",
+    "valor": 3200.00,
+    "data_emissao": "2023-10-26"
+  }
+]
